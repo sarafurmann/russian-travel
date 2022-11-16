@@ -1,4 +1,4 @@
-.place__url {
+.place__list {
     list-style: none;
     padding-left: 0;
     margin: 0;
@@ -6,7 +6,7 @@
 }
 
 @media screen and (max-width:400px) {
-    .place__url {
+    .place__list {
         margin-left: 14px;
     }
 }
