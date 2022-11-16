@@ -1,0 +1,12 @@
+.place__url {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+    align-self: end;
+}
+
+@media screen and (max-width:400px) {
+    .place__url {
+        margin-left: 14px;
+    }
+}

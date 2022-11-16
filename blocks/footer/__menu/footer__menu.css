@@ -1,0 +1,9 @@
+.footer__menu {
+    margin-left: 21px;
+}
+
+@media screen and (max-width:400px) {
+    .footer__menu {
+        margin-left: 0;
+    }
+}
