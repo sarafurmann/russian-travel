@@ -1,9 +1,9 @@
-.place__list-heading {
+.place__web-heading {
     font-size: 12px;
     font-weight: 400;
     line-height: 170%;
     color: #AAAAAA;
-    text-decoration: none;
+    /* text-decoration: none; */
     letter-spacing: 2px;
     margin-bottom: 9px;
 }
